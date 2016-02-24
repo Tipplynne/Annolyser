@@ -1,0 +1,11 @@
+AEO31332	FIG	CDS	29602	30720	.	-1	1	ABC-type transport system ATP-binding protein (probable substrates spermidine/putrescine/iron) 1
+BAL70263	FIG	CDS	30773	32368	.	-1	2	Ferric iron ABC transporter, permease protein
+ACD88505	FIG	CDS	32381	33544	.	-1	2	Iron(III) ABC transporter, periplasmic-binding protein
+AAA92247	FIG	CDS	250	560	.	-1	0	unknown
+ADJ96323	FIG	CDS	348	400	.	-1	2	ATP-dependant helicase
+ADJ96323	FIG	CDS	8	249	.	1	2	hypothetical protein
+ADJ96323	FIG	CDS	340	368	.	1	2	endonuclease III
+ADJ96323	FIG	CDS	555	560	.	1	1	hypothetical protein
+ACQ83043	FIG	CDS	500	560	.	1	2	pyridoxal phosphate-dependent aminotransferase (homolog to histidinol-phosphate aminotransferase / aspartate aminotransferase)( EC:2.6.1.- )
+ACQ83043	FIG	CDS	3	300	.	-1	1	Fe-S protein, homolog of lactate dehydrogenase SO1521
+ACQ83043	FIG	CDS	12	550	.	-1	0	L-lactate permease
