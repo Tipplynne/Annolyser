@@ -3,7 +3,7 @@ Annolyser | By Crystal-Leigh Clitheroe | 23 February 2016
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Welcome to Annolyser_v01
 
-This is a short terminal based program, written mostly for educational purposes (my own) and personal use, until I get over the novelty.
+This is a short terminal based program.
 
 What it does, is parse and read-in sequence information from .fasta files and sequence annotations from .gff files and relates the the information by sequance identifiers. It allows the user to "explore" the annotations of interest and add new ones. The user can then write new .gff files for only the sequences of interest, along with the added annotations.
 
@@ -38,4 +38,4 @@ Bugs and issues:
 Note: There are carefully designed example files fastaex.fasta and gffex.gff included in the MenuGuy folder, that are examples of the input file formats that are supported by this program, and have taken into account and present the subtle problems of the Explore and Create Annotations sections (eg, formatting of Sequences around START and STOP features).
 
 Acknowledgements:
-Many thanks to Gustavo Salazar, who debugged the some of the code in the fileloaders. He also generally made me write this program, whether I wanted to or not. 
+Many thanks to Gustavo Salazar, who debugged the some of the code in the fileloaders. 
